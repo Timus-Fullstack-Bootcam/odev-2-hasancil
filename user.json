@@ -1,0 +1,20 @@
+{
+  "userDatabase": {
+    "users": [
+      {
+        "id": "1700388128845",
+        "name": "Hasan",
+        "age": 26,
+        "email": "hasan@gmail.com",
+        "stillEmloyee": true
+      },
+      {
+        "id": "1700390173931",
+        "name": "Test",
+        "age": 23,
+        "email": "test@gmail.com",
+        "stillEmloyee": true
+      }
+    ]
+  }
+}
